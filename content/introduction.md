@@ -6,5 +6,5 @@ draft: false
 
 ![Hello!](https://zen-lamarr-b60ff0.netlify.app/Hello.jpg)
 
-<p style="text-align: center;"><h2> My name is Liam!</h2></p>
-<p style="text-align: center;">I'm a student at the University of Kentucky. I study ICT and Russian Studies.</p>
+<h1> My name is Liam! </h1>
+<p>I'm a student at the University of Kentucky. I study ICT and Russian Studies.</p>
