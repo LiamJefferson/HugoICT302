@@ -39,3 +39,18 @@ HUGO_ENABLEGITINFO = "true"
 name = "Introduction"
 weight = 1
 url = "/introduction/"
+
+[[menu.main]]
+name = "Annotated Definitions"
+weight = 2
+url = "https://zen-lamarr-b60ff0.netlify.app/AnnotatedDefinitionsDummy/"
+
+[[menu.main]]
+name = "Resource Guide"
+weight = 3
+url = "https://zen-lamarr-b60ff0.netlify.app/ResourceGuideDummy/"
+
+[[menu.main]]
+name = "Walkthrough"
+weight = 4
+url = "https://zen-lamarr-b60ff0.netlify.app/WalkthroughDummy/"
