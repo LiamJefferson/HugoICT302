@@ -1,7 +1,7 @@
 baseURL = "https://zen-lamarr-b60ff0.netlify.app/"
 languageCode = "en-us"
 title = "Liam Jefferson's Hugo Site"
-theme = "hugo-PaperMod-master"
+theme = "hermit-master"
 
 [build]
 publish = "public"
