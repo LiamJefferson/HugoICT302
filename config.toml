@@ -55,5 +55,5 @@ name = "Walkthrough"
 weight = 4
 url = "https://zen-lamarr-b60ff0.netlify.app/WalkthroughDummy/"
 
-params:
+[params]
     defaultTheme: dark
