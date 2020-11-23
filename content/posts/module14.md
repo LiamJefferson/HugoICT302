@@ -4,7 +4,7 @@ date: 2020-11-21T00:00:00-04:00
 draft: false
 ---
 
-**I can identify and define key concepts in (web) content management.** This week I learned more about the types of customization that can be added to a WordPress site by installing themes.
+**I can identify and define key concepts in (web) content management.** This week I learned more about the types of customization that can be added to a WordPress site by installing themes. This allows managers of CMS to have greater control over the presentation of their content.
 
 **I can describe and compare content management systems.** I feel more confident in my ability to research and compare CMSs and determine whether they fit my needs. The more we learn about CMSs the more I realize how nuanced this decision would be.
 
